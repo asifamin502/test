@@ -1,0 +1,36 @@
+same folder name and  GitHub repositories.
+than select folder in vs code.
+*) goto terminal > new terminal > + > select default profile than wait for 10 seconds.
+
+*) close and reopen terminal from vscode and delete previous powershall
+
+*) git --version
+
+*) add file
+$ echo"#folder_name">>style.css
+
+*)git initilazion
+$git init
+
+*)git file add
+$ git add style.css
+for all add
+$ git add .
+
+*) git commit/ status
+git commit -m "first commit"
+
+*)now paste this in terminal
+$ git remote add origin https://github.com/asifamin502/test.git 
+
+*)add user emailId
+$ git config --global user.email"asifamin502@gmail.com"
+
+*)git config
+$ 
+
+
+
+
+
+ 
