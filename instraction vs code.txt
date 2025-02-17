@@ -17,20 +17,37 @@ $ git add style.css
 for all add
 $ git add .
 
-*) git commit/ status
-git commit -m "first commit"
+
 
 *)now paste this in terminal
 $ git remote add origin https://github.com/asifamin502/test.git 
 
 *)add user emailId
-$ git config --global user.email"asifamin502@gmail.com"
+$ git config --global user.email "asifamin502@gmail.com"
 
 *)git config
-$ 
+$ git config --global user.name "asifamin502"
 
+*) than add remote just paste
+$ git remote add origin https://github.com/asifamin502/test.git
 
+*) than just paste
+$ git add -A
 
+*) git commit/ status
+$ git commit -m "first commit"
+
+*) select main branch just paste
+$ git branch -M main
+
+*) than  again add remote just paste
+$ git remote add origin https://github.com/asifamin502/test.git
+
+*) paste it and login again if need
+$ git push -u origin main
+
+(remove all account)
+(set default browser)
 
 
  
